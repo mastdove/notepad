@@ -1,0 +1,11 @@
+D:\uni\Основы инженерии\блокнот\блокнот\obj\Debug\блокнот.csprojAssemblyReference.cache
+D:\uni\Основы инженерии\блокнот\блокнот\obj\Debug\блокнот.Properties.Resources.resources
+D:\uni\Основы инженерии\блокнот\блокнот\obj\Debug\блокнот.csproj.GenerateResource.cache
+D:\uni\Основы инженерии\блокнот\блокнот\obj\Debug\блокнот.csproj.CoreCompileInputs.cache
+D:\uni\Основы инженерии\блокнот\блокнот\obj\Debug\блокнот.Form1.resources
+D:\uni\Основы инженерии\блокнот\блокнот\bin\Debug\блокнот.exe.config
+D:\uni\Основы инженерии\блокнот\блокнот\bin\Debug\блокнот.exe
+D:\uni\Основы инженерии\блокнот\блокнот\bin\Debug\блокнот.pdb
+D:\uni\Основы инженерии\блокнот\блокнот\obj\Debug\блокнот.exe
+D:\uni\Основы инженерии\блокнот\блокнот\obj\Debug\блокнот.pdb
+D:\uni\Основы инженерии\блокнот\блокнот\obj\Debug\блокнот.Form2.resources
